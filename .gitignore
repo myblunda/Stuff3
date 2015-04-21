@@ -1,12 +1,1 @@
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+System.out.printf("%-15s%-12s%10d%13d", invade.getArrayList().get(x).getLastName(),  invade.getArrayList().get(x).getFirstName(), invade.getArrayList().get(x).getFighterKills(), invade.getArrayList().get(x).getMotherKills());
