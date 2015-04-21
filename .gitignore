@@ -1,1 +1,8 @@
+
+
+
+
+
+
+
 System.out.printf("%-15s%-12s%10d%13d", invade.getArrayList().get(x).getLastName(),  invade.getArrayList().get(x).getFirstName(), invade.getArrayList().get(x).getFighterKills(), invade.getArrayList().get(x).getMotherKills());
